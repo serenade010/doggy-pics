@@ -1,0 +1,10 @@
+{
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.preferences": {},
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "razor": "html",
+    "plaintext": "pug"
+  },
+  "emmet.triggerExpansionOnTab": true
+}
