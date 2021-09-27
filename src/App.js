@@ -1,7 +1,7 @@
 import React from 'react';
 import HomePage from './HomePage';
 import DogPage from './DogPage';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 
 function App() {
   return (
